@@ -1,0 +1,1 @@
+const ls=document.getElementById("ls"),rs=document.getElementById("rs"),o=document.getElementById("o");function ss(n){n.style.display="block",o.style.display="block"}function cs(){ls.style.display="none",rs.style.display="none",o.style.display="none"}function vL(o){location.href="https://udyogainfobooks.blogspot.com/search/label/"+o.innerHTML}function vH(o){location.href=o}
